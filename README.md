@@ -8,7 +8,7 @@ Handles **Mailchimp, AWS servers & database**, server migration, managing **end-
 ### Websites, Portfolios
 - 🌐 [Portfolio](https://naveenraj93.github.io)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/naveenraj-balasubramanian-470342128/)  
-Email: naveenrajbdev@gmail.com
+- 📧 Email: naveenrajbdev@gmail.com
 
 ## Tech Stack
 **Frameworks:** Java Spring Boot, Angular, Express JS  
@@ -21,8 +21,8 @@ Email: naveenrajbdev@gmail.com
 **Support:** Grafana, Prometheus  
 
 ### Secondary Technical Skill & Tools
-• Python, Salesforce (Basics, Flows creation & CRM understanding)  
-• Mail Chimp, Cloudflare, Stripe & Authorize.net Integration  
+- Python, Salesforce (Basics, Flows creation & CRM understanding)  
+- Mail Chimp, Cloudflare, Stripe & Authorize.net Integration  
 
 <!--
 **naveenraj93/naveenraj93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
