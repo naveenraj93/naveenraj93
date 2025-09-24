@@ -6,8 +6,8 @@ Handles **Mailchimp, AWS servers & database**, server migration, managing **end-
 
 
 ### Websites, Portfolios
-[Portfolio](https://naveenraj93.github.io)  
-[LinkedIn](https://www.linkedin.com/in/naveenraj-balasubramanian-470342128/)  
+- 🌐 [Portfolio](https://naveenraj93.github.io)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/naveenraj-balasubramanian-470342128/)  
 Email: naveenrajbdev@gmail.com
 
 ## Tech Stack
