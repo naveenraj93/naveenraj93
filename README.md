@@ -13,14 +13,14 @@ support.**
 Email: naveenrajbdev@gmail.com
 
 ## Tech Stack
-**Frameworks:** Java Spring Boot, Angular, Express JS
-**Frontend:** HTML5, CSS3, SASS, Material, Bootstrap, Typescript
-**Backend:** Java, Spring Boot, JPA, Node JS, Shell Script
-**Cloud:** AWS - EC2, S3, CloudFront, Lamba, RDS
-**DevOps & Infra:** Jenkins, Nginx
-**Database:** Mysql, Hive, MongoDB
-**Security:** OAuth2, JWT, Keycloak
-**Support:** Grafana, Prometheus
+**Frameworks:** Java Spring Boot, Angular, Express JS  
+**Frontend:** HTML5, CSS3, SASS, Material, Bootstrap, Typescript  
+**Backend:** Java, Spring Boot, JPA, Node JS, Shell Script  
+**Cloud:** AWS - EC2, S3, CloudFront, Lamba, RDS  
+**DevOps & Infra:** Jenkins, Nginx  
+**Database:** Mysql, Hive, MongoDB  
+**Security:** OAuth2, JWT, Keycloak  
+**Support:** Grafana, Prometheus  
 
 ### Secondary Technical Skill & Tools
 • Python, Salesforce (Basics, Flows creation & CRM understanding)
