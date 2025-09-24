@@ -1,14 +1,12 @@
 ## Hi All Naveenraj here...
 
-Full Stack Developer with 10 years of experience in Web Application Development both **Angular
-(frontend) and Java Spring (backend).** Excellent reputation for delivering **robust, scalable solutions,**
-resolving problems and improving customer satisfaction. Handles **Mailchimp, AWS servers &
-database**, server migration, managing **end-to-end deployments** and providing reliable **production
-support.**
+Full Stack Developer with 10 years of experience in Web Application Development both **Angular (frontend) and Java Spring (backend).** Excellent reputation for delivering **robust, scalable solutions,**
+resolving problems and improving customer satisfaction.  
+Handles **Mailchimp, AWS servers & database**, server migration, managing **end-to-end deployments** and providing reliable **production support.**
 
 
 ### Websites, Portfolios
-[Portfolio](https://naveenraj93.github.io)
+[Portfolio](https://naveenraj93.github.io)  
 [LinkedIn](https://linkedin.com/in/yourprofile)  
 Email: naveenrajbdev@gmail.com
 
@@ -23,8 +21,8 @@ Email: naveenrajbdev@gmail.com
 **Support:** Grafana, Prometheus  
 
 ### Secondary Technical Skill & Tools
-• Python, Salesforce (Basics, Flows creation & CRM understanding)
-• Mail Chimp, Cloudflare, Stripe & Authorize.net Integration
+• Python, Salesforce (Basics, Flows creation & CRM understanding)  
+• Mail Chimp, Cloudflare, Stripe & Authorize.net Integration  
 
 <!--
 **naveenraj93/naveenraj93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
